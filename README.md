@@ -1,4 +1,4 @@
-﻿# 🛡️ AEGIS OS - Master Build Documentation
+# 🛡️ AEGIS OS - Master Build Documentation
 
 > **Version:** 1.1.0-alpha  
 > **Status:** In Development  

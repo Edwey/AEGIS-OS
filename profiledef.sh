@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env bash
+#!/usr/bin/env bash
 # shellcheck disable=SC2034
 iso_name="aegis-os"
 iso_label="AEGIS_OS_$(date +%Y%m)"
