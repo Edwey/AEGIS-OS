@@ -24,6 +24,13 @@ spectacle
 krunner
 kwalletmanager
 kdeconnect
+sddm
+qt6-multimedia
+qt6-multimedia-ffmpeg
+gst-plugins-base
+gst-plugins-good
+gst-plugins-bad
+gst-plugins-ugly
 gwenview
 okular
 kamoso
