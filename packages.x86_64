@@ -52,6 +52,8 @@ neovim
 networkmanager
 nm-connection-editor
 pavucontrol
+cups
+system-config-printer
 git
 curl
 wget
