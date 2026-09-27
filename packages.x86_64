@@ -10,9 +10,14 @@ os-prober
 ntfs-3g
 btrfs-progs
 rsync
+syslinux
+mesa
+
+# KDE Plasma Desktop
 plasma-desktop
 plasma-workspace
 plasma-systemmonitor
+plasma-wayland-session
 dolphin
 kate
 kwrite
@@ -27,9 +32,18 @@ powerdevil
 kde-cli-tools
 sddm
 xorg-xwayland
+
+# Audio & Bluetooth
+pipewire
+pipewire-pulse
+pipewire-alsa
+pavucontrol
+bluez
+bluez-utils
+
+# Network & Utilities
 networkmanager
 nm-connection-editor
-pavucontrol
 git
 curl
 wget
@@ -39,16 +53,28 @@ p7zip
 unrar
 gparted
 flameshot
+cups
+system-config-printer
+
+# Terminal & Shell
 fish
-fisher
 kitty
 btop
 fastfetch
 neovim
+
+# Theming & Fonts
 kvantum
-catppuccin-cursors-mocha
 ttf-jetbrains-mono
 inter-font
-polonium
-mesa
-syslinux
+noto-fonts
+xdg-user-dirs
+xdg-utils
+
+# Media & SDDM Theme Dependencies
+qt6-multimedia
+qt6-multimedia-ffmpeg
+gst-plugins-base
+gst-plugins-good
+gst-plugins-bad
+gst-plugins-ugly
