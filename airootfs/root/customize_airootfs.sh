@@ -13,9 +13,6 @@ if id -u arch &>/dev/null; then
     chsh -s /usr/bin/fish arch
 fi
 
-echo "[AEGIS] Installing qylock SDDM theme dependencies..."
-pacman -S --noconfirm qt6-multimedia qt6-multimedia-ffmpeg gst-plugins-base gst-plugins-good gst-plugins-bad gst-plugins-ugly
-
 echo "[AEGIS] Cloning and installing qylock SDDM theme..."
 cd /usr/share/sddm/themes
 git clone https://github.com/Darkkal44/qylock.git

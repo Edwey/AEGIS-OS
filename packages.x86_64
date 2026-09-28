@@ -1,6 +1,5 @@
 base
 linux
-linux-lts
 linux-firmware
 mkinitcpio
 sudo
@@ -17,7 +16,6 @@ mesa
 plasma-desktop
 plasma-workspace
 plasma-systemmonitor
-plasma-wayland-session
 dolphin
 kate
 kwrite
@@ -51,7 +49,6 @@ openssh
 unzip
 p7zip
 unrar
-gparted
 flameshot
 cups
 system-config-printer
@@ -61,7 +58,6 @@ fish
 kitty
 btop
 fastfetch
-neovim
 
 # Theming & Fonts
 kvantum
@@ -76,5 +72,3 @@ qt6-multimedia
 qt6-multimedia-ffmpeg
 gst-plugins-base
 gst-plugins-good
-gst-plugins-bad
-gst-plugins-ugly
