@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Install AEGIS OS
+Exec=pkexec /usr/bin/calamares
+Icon=system-software-install
+Terminal=false
